@@ -2,6 +2,7 @@ import cors from "cors";
 import "dotenv/config";
 import express from "express";
 
+
 class CodingChallenge {
   private port = process.env.PORT;
   public app: express.Application;
