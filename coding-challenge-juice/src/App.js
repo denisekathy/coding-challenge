@@ -5,7 +5,7 @@ import react from "react"
 
 export default function App(){
   return (
-    <h1>Hello World! Welcome to my Recommendation!</h1>
+    <h1>Hello World! Welcome to my Recommendations!</h1>
   );
    
 }
