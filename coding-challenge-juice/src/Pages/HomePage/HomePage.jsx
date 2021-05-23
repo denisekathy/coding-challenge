@@ -6,7 +6,7 @@ import './HomePage.css'
 export default function HomePage() {
   return (
     <>
-    <h2>Pick two(one from each column) and we will recommend a store!</h2>
+    <h2>Pick two(one from each column) and we will recommend a store(Walmart and Target)!</h2>
       <ul>
           <li>
       <form>

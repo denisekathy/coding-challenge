@@ -8,7 +8,7 @@ import HomePage from "../HomePage/HomePage"
 export default function App(){
   return (
       <>
-   <h1>Hello World and Recommendation App inside!</h1>
+   <h1>Where should I shop?</h1>
    <HomePage />
    </>
 
